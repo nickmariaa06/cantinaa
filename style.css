@@ -1,14 +1,15 @@
-/* Estilos CSS para o seu site */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color:blue;
+    background-color:rgb(0, 110, 255);
+    background-image: url(img/img/nuvens-tricoline-nuvens-fundo-azul-claro-100-algodao--p-1641483951796.jpg);
 }
 
 header {
-    background-color: #165;
-    color: #fff;
+    background-color: rgb(195, 243, 245);
+    color: #0f0b0b;
     text-align: center;
     padding: 1rem 0;
 }
@@ -17,7 +18,7 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #5F9F9F;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -44,8 +45,14 @@ button {
     padding: 5px 10px;
     border: none;
     cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 button:hover {
-    background-color: #555;
+    background-color: #ffffff;
+}
+h3{
+    color: fuchsia;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
 }
