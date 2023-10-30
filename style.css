@@ -39,6 +39,7 @@ ul {
 li {
     margin-bottom: 10px;
     text-align: center;
+    list-style-type: none;
     
 }
 
@@ -61,5 +62,5 @@ h3{
 }
 
 .imagens {
-    width: 300px;
+    width: 400px;
 }
